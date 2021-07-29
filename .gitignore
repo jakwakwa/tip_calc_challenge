@@ -16,7 +16,7 @@
 .prettierignore
 node_modules
 .cache/
-.parcel-cache/
+.parcel-cache
 .vscode/
 .env
 dist/
