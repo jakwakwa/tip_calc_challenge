@@ -5,7 +5,7 @@ import ChildComponent from "./ChildComponent";
 const App = () => {
   return (
     <>
-      <div>Hallo from App</div>
+      <div>Hallo from App.js</div>
       <ChildComponent />
     </>
   );
