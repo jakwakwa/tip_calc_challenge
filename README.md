@@ -6,8 +6,6 @@
 
 Thanks for checking out this front-end coding challenge.
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
-
 **To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
 
 ## Start Development Mode
@@ -21,6 +19,8 @@ Now you will be able to see dev application in the browser at `http://localhost:
 
 React:
 [Website Link (Complete Intro To React)](https://btholt.github.io/complete-intro-to-react-v6/)
+
+You can start at the 'Core React Concepts` section
 
 Let me know if you need help with CSS resources...
 [email](jakwakwa@gmail.com)
