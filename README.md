@@ -13,6 +13,13 @@ Thanks for checking out this front-end coding challenge.
 ## Start Development Mode
 
 In terminal, run:
+
+First Install node packages:
+
+`npm install`
+
+and then
+
 `npm run dev`
 
 Now you will be able to see dev application in the browser at `http://localhost:1234`
