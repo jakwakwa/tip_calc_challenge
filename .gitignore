@@ -20,3 +20,12 @@ node_modules
 .vscode/
 .env
 dist/
+
+
+
+
+coverage
+build
+.idea/
+
+.eslintcache
